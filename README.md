@@ -1,2 +1,2 @@
 # Semantic_Segmentation
-The code for semantic segmentation using different methods (FCN, UNET, DeepLab)
+The code implements semantic segmentation using different methods (FCN, UNET, DeepLab)
